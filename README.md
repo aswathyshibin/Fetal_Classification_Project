@@ -20,7 +20,7 @@ The goal is to support medical imaging research and demonstrate how Convolutiona
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/Fetal-Image-Classification.git
+git clone https://github.com/aswathyshibin/Fetal_Classification_Project.git
 cd Fetal-Image-Classification
 
 Create a Virtual Environment
